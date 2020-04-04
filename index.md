@@ -6,8 +6,8 @@ layout: page
 _Hello_! Thank you for playing our little game. You're helping some research
 that we think is genuinely fascinating, and we can't thank you enough!
 
-<a href="https://apps.apple.com/gb/app/rpglite/id1502906282"><img src="https://raw.githubusercontent.com/RPGLite/RPGLite.github.io/master/public/images/app_store.png"/></a>
-<a href='https://play.google.com/store/apps/details?id=com.GlasgowDCS.RPGLite&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href="https://apps.apple.com/gb/app/rpglite/id1502906282"><img src="https://raw.githubusercontent.com/RPGLite/RPGLite.github.io/master/public/images/app_store.png" width="480px"/></a>
+<a href='https://play.google.com/store/apps/details?id=com.GlasgowDCS.RPGLite&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="480px"/></a>
 
 Tom & William
 
