@@ -12,7 +12,7 @@ Tom & William
 
 ---
 
-<div><a href="https://apps.apple.com/us/app/rpglite/id1502906282?ls=1">APP STORE SVG</a></div>
+<div><a href="https://apps.apple.com/us/app/rpglite/id1502906282?ls=1"><img src="https://raw.githubusercontent.com/RPGLite/RPGLite.github.io/master/public/images/app_store.svg"/></a></div>
 <div><a href="https://play.google.com/store/apps/details?id=com.GlasgowDCS.RPGLite">GOOGLE PLAY IMAGE</a></div>
 
 ---
